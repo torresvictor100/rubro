@@ -147,9 +147,6 @@ export default function App() {
                     <div>
                       <p className="text-xs uppercase tracking-[0.35em] text-zinc-500">Camada central</p>
                       <h3 className="text-2xl font-semibold mt-3 max-w-md">Um agente central controlando outros agentes e integrando sistemas</h3>
-                      <p className="text-zinc-400 mt-3 max-w-lg">
-                        Representação do maestro de agentes: criação, controle e monitoramento de múltiplos agentes em uma única camada.
-                      </p>
                     </div>
                     <div className="mt-6 overflow-hidden rounded-2xl border border-white/10 bg-black/30">
                       <img
